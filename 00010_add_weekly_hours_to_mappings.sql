@@ -1,0 +1,1 @@
+ALTER TABLE public.teacher_subject_mappings ADD COLUMN weekly_hours integer NOT NULL DEFAULT 1;
